@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import Questions from './Questions'
-import CheckCircleIcon from '@material-ui/icons/CheckCircle';
-import CancelIcon from '@material-ui/icons/Cancel';
+import CheckCircleIcon from '@mui/icons-material/CheckCircle';
+import CancelIcon from '@mui/icons-material/Cancel';
 import logo from './logo.svg'
 
 
